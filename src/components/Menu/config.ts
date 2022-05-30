@@ -1,5 +1,6 @@
 import { MenuEntry } from '@pancakeswap-libs/uikit'
 
+
 const config: MenuEntry[] = [
   {
     label: 'Home',
@@ -50,7 +51,7 @@ const config: MenuEntry[] = [
   },
   {
     label: 'NFT',
-    icon: 'TeamBattleIcon',
+    icon: 'NftIcon',
     href: 'https://nft.wheswap.io/',
     // target:"_blank",
     // swiping:"true"

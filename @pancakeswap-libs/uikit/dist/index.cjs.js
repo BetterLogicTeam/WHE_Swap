@@ -2973,7 +2973,8 @@ var IconModule = /*#__PURE__*/Object.freeze({
     TelegramIcon: Icon$a,
     TicketIcon: Icon$9,
     TradeIcon: Icon$8,
-    TwitterIcon: Icon$7
+    TwitterIcon: Icon$7,
+    RiOperaFill:Icons$1
 });
 
 var MenuButton = styled__default['default'](Button)(templateObject_1$e || (templateObject_1$e = __makeTemplateObject(["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"], ["\n  color: ", ";\n  padding: 0 8px;\n  border-radius: 8px;\n"])), function (_a) {

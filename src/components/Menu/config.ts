@@ -51,7 +51,7 @@ const config: MenuEntry[] = [
   {
     label: 'NFT',
     icon: 'TeamBattleIcon',
-    href: 'https://spontaneous-nougat-1cf8b2.netlify.app/',
+    href: 'https://nft.wheswap.io/',
     // target:"_blank",
     // swiping:"true"
   },

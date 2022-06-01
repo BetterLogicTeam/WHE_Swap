@@ -49,13 +49,12 @@ const config: MenuEntry[] = [
     // swiping:"true"
     // target:"_blank",
   },
-  {
-    label: 'NFT',
-    icon: 'NftIcon',
-    href: 'https://nft.wheswap.io/',
-    // target:"_blank",
-    // swiping:"true"
-  },
+  // {
+  //   label: 'NFT',
+  //   icon: 'NftIcon',
+  //   href: 'https://nft.wheswap.io/',
+   
+  // },
   // ,
   // {
   //   label: 'Lottery',
